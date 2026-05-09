@@ -15,47 +15,44 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Achievements & Awards</h4>
-                <h5>SIH Semifinalist | Hackathon Winner</h5>
+                <h4>B.Tech in Computer Science</h4>
+                <h5>IILM University</h5>
               </div>
-              <h3>WINS</h3>
+              <h3>2023</h3>
             </div>
             <p>
-              • Internal SIH 2025 Semifinalist: Developed an offline AI-powered attendance system for rural education.<br/>
-              • AI Fusion Hackathon (4th Place): Built a predictive loan model with a Tableau data visualization dashboard.<br/>
-              • Hack-Utsav 2k24 (4th Place): Created a web application focused on high-precision URL security validation.<br/>
-              • Hackathon 2k25: Built a phishing link detection app to identify and flag malicious URLs.
+              Pursuing B.Tech in Computer Science with a specialization in
+              Cybersecurity. Building a strong foundation in Data Structures,
+              Algorithms, and network security. Expected graduation in 2027.
             </p>
           </div>
-
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Certifications & Education</h4>
-                <h5>Cybersecurity | AWS | Java | MongoDB</h5>
+                <h4>Full Stack Web Developer Intern</h4>
+                <h5>WeIntern</h5>
               </div>
-              <h3>CERT</h3>
+              <h3>2026</h3>
             </div>
             <p>
-              • B.Tech in CSE, IILM University (Expected 2027)<br/>
-              • Cybersecurity Fundamentals (CCYF™) Certified<br/>
-              • Deloitte Job Simulation: Software Engineering<br/>
-              • AWS Academy Graduate: Cloud Security Foundations<br/>
-              • MongoDB Certified Student Course | Infosys Core Java
+              Collaborated on building and maintaining scalable web applications
+              using full-stack technologies. Demonstrated commitment to agile
+              development practices and high-quality code delivery under an
+              AICTE-recognized internship framework.
             </p>
           </div>
-
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Extracurricular & Hobbies</h4>
-                <h5>Event Organizer | Creative Media</h5>
+                <h4>Content & Documentation Specialist</h4>
+                <h5>RB Digital</h5>
               </div>
-              <h3>PLUS</h3>
+              <h3>NOW</h3>
             </div>
             <p>
-              • Event Organizer (IEEE & YICC): Managed team workflows and logistics for technical youth initiatives.<br/>
-              • Creative Media: Enthusiast in graphic design and video editing, creating digital content with modern design suites.
+              Managing business portfolios across Meta Business Suite, ensuring
+              consistent brand presence. Editing and refining technical project
+              documentation for cross-functional initiatives.
             </p>
           </div>
         </div>
